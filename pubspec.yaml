@@ -1,0 +1,17 @@
+publish_to: https://pub.dev
+
+name: enum_as_string
+version: 1.0.0+2
+
+description: Utility library for enum-to-string and string-to-enum conversions. Nothing more, nothing less.
+
+homepage: https://github.com/wordcollector/enum_as_string
+repository: https://github.com/wordcollector/enum_as_string
+issue_tracker: https://github.com/wordcollector/enum_as_string/issues
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dev_dependencies:
+  test: ^1.17.11
+  words: ^0.0.1+2
