@@ -3,7 +3,9 @@ publish_to: https://pub.dev
 name: enum_as_string
 version: 1.0.0+2
 
-description: Utility library for enum-to-string and string-to-enum conversions. Nothing more, nothing less.
+description: >-
+  Utility library for enum-to-string and string-to-enum conversions. 
+  Nothing more, nothing less.
 
 homepage: https://github.com/wordcollector/enum_as_string
 repository: https://github.com/wordcollector/enum_as_string
