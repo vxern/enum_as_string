@@ -1,6 +1,10 @@
-## Tiny, simple utility package for enum-to-string and string-to-enum conversions
+## A tiny, simple utility package for enum-to-string and string-to-enum conversions
 
-This package was originally a fork of [enum_to_string](https://pub.dev/packages/enum_to_string) by [Ryan Knell (rknell)](https://github.com/rknell). Most code has been rewritten, and large parts of it removed as they were deemed unnecessary, such as string-to-enum-list and `camelCase` to `Start Case` value conversions.
+This package was originally a fork of
+[enum_to_string](https://pub.dev/packages/enum_to_string) by
+[Ryan Knell (rknell)](https://github.com/rknell). Most code has been rewritten,
+and large parts of it removed as they were deemed unnecessary, such as
+string-to-enum-list and `camelCase` to `Start Case` value conversions.
 
 ### Usage
 
