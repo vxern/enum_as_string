@@ -1,5 +1,7 @@
 ## A tiny, simple utility package for enum-to-string and string-to-enum conversions
 
+This package has now been retired with the addition of `Enum.<value>.name` and `Enum.values.byName()` in Dart 2.15. It will receive no more updates.
+
 This package was originally a fork of
 [enum_to_string](https://pub.dev/packages/enum_to_string) by
 [Ryan Knell (rknell)](https://github.com/rknell). Most code has been rewritten,
